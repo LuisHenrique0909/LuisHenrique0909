@@ -87,10 +87,21 @@ Tenho interesse em aprender novas tecnologias, colaborar em projetos e desenvolv
 />
 
 <img 
-    align="left"
     alt="GitHub Stats"
-   height="120"
+   height="150"
    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuisHenrique0909&layout=compact&theme=tokyonight&langs_count=10"
 />
+
+---
+
+<!-- Pacman -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 </p>
