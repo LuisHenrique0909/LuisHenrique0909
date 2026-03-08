@@ -76,7 +76,7 @@ Tenho interesse em aprender novas tecnologias, colaborar em projetos e desenvolv
 <img
  align="left"
  alt="GitHub Stats"
- heigth="200"
+ heigth="150"
  style="padding-rigth: 10px;"
  src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuisHenrique0909&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
@@ -84,6 +84,6 @@ Tenho interesse em aprender novas tecnologias, colaborar em projetos e desenvolv
 <img
     align="left"
     alt="GitHub Stats"
-    height="100"
+    height="150"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuisHenrique0909&layout=compact&theme=tokyonight&langs_count=10"
 />
