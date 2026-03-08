@@ -8,6 +8,8 @@ Já participei de eventos da área de tecnologia e programação, como o **EnCEn
 
 Tenho interesse em aprender novas tecnologias, colaborar em projetos e desenvolver soluções eficientes através da programação.
 
+<a href = "mailto:luis.h.s.d.n@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 ---
 
 ### 🚀 Linguagens e Tecnologias
