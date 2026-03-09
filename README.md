@@ -1,8 +1,8 @@
-# 🤖 Luis Henrique
+# 💻 Luis Henrique
 
 **`Desenvolvedor`**
 
-Estudante de Engenharia de Software, natural do Amazonas, com formação técnica em Logística e grande interesse por tecnologia e desenvolvimento de software. Possuo conhecimento em **C++, Python e C#**, buscando constantemente evoluir minhas habilidades em programação e resolução de problemas.
+Estudante de Engenharia de Software, com formação técnica em Logística e grande interesse por tecnologia e desenvolvimento de software. Possuo conhecimento em **C++, Python e C#**, buscando constantemente evoluir minhas habilidades em programação e resolução de problemas.
 
 Já participei de eventos da área de tecnologia e programação, como o **EnCEnG**, ampliando minha experiência prática e contato com a comunidade de desenvolvimento.
 
@@ -12,7 +12,7 @@ Tenho interesse em aprender novas tecnologias, colaborar em projetos e desenvolv
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <p>
 
